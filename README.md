@@ -1,0 +1,2 @@
+# Self-Destructing-Secure-Notes-with-Encrypted-Storage-and-Access-Pattern-Privacy
+A secure note-sharing platform where the sender can set self-destruction functionality based on time expiration and access limits. Notes are secured using AES-GCM where a decryption key is generated and receiver can access message using the shared key. The note is stored only in the encrypted form which ensures confidentiality.
